@@ -13,6 +13,8 @@ namespace MyNewProject
 
             int[] myArray = {5,8,4,1,2,9};
 
+            int[] myArray1 = { 5, 8, 4, 1, 2, 9 };
+
             Array.Resize(ref myArray, 8);
 
            foreach(int i in myArray)
