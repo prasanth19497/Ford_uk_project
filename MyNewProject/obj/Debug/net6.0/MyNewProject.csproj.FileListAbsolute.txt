@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\MyNewProject\MyNewProject\bin\Debug\net6.0\MyNewProject.exe
+C:\Users\Dell\source\repos\MyNewProject\MyNewProject\bin\Debug\net6.0\MyNewProject.deps.json
+C:\Users\Dell\source\repos\MyNewProject\MyNewProject\bin\Debug\net6.0\MyNewProject.runtimeconfig.json
+C:\Users\Dell\source\repos\MyNewProject\MyNewProject\bin\Debug\net6.0\MyNewProject.dll
+C:\Users\Dell\source\repos\MyNewProject\MyNewProject\bin\Debug\net6.0\MyNewProject.pdb
+C:\Users\Dell\source\repos\MyNewProject\MyNewProject\obj\Debug\net6.0\MyNewProject.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\MyNewProject\MyNewProject\obj\Debug\net6.0\MyNewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\MyNewProject\MyNewProject\obj\Debug\net6.0\MyNewProject.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\MyNewProject\MyNewProject\obj\Debug\net6.0\MyNewProject.AssemblyInfo.cs
+C:\Users\Dell\source\repos\MyNewProject\MyNewProject\obj\Debug\net6.0\MyNewProject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\MyNewProject\MyNewProject\obj\Debug\net6.0\MyNewProject.dll
+C:\Users\Dell\source\repos\MyNewProject\MyNewProject\obj\Debug\net6.0\refint\MyNewProject.dll
+C:\Users\Dell\source\repos\MyNewProject\MyNewProject\obj\Debug\net6.0\MyNewProject.pdb
+C:\Users\Dell\source\repos\MyNewProject\MyNewProject\obj\Debug\net6.0\MyNewProject.genruntimeconfig.cache
+C:\Users\Dell\source\repos\MyNewProject\MyNewProject\obj\Debug\net6.0\ref\MyNewProject.dll
